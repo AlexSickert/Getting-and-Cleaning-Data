@@ -1,6 +1,5 @@
 
 
-
 # first we add the header to the data set. For doing this we read the table that contains the column names
 
 columnNamesAll <-read.table("features.txt", header = FALSE )
